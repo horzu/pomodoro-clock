@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pomodoro-clock/static/css/main.f815520d.chunk.css",
+    "main.js": "/pomodoro-clock/static/js/main.b6337907.chunk.js",
+    "main.js.map": "/pomodoro-clock/static/js/main.b6337907.chunk.js.map",
+    "runtime-main.js": "/pomodoro-clock/static/js/runtime-main.adf1146d.js",
+    "runtime-main.js.map": "/pomodoro-clock/static/js/runtime-main.adf1146d.js.map",
+    "static/js/2.7f2e8bcb.chunk.js": "/pomodoro-clock/static/js/2.7f2e8bcb.chunk.js",
+    "static/js/2.7f2e8bcb.chunk.js.map": "/pomodoro-clock/static/js/2.7f2e8bcb.chunk.js.map",
+    "static/js/3.2481465b.chunk.js": "/pomodoro-clock/static/js/3.2481465b.chunk.js",
+    "static/js/3.2481465b.chunk.js.map": "/pomodoro-clock/static/js/3.2481465b.chunk.js.map",
+    "index.html": "/pomodoro-clock/index.html",
+    "static/css/main.f815520d.chunk.css.map": "/pomodoro-clock/static/css/main.f815520d.chunk.css.map",
+    "static/js/2.7f2e8bcb.chunk.js.LICENSE.txt": "/pomodoro-clock/static/js/2.7f2e8bcb.chunk.js.LICENSE.txt",
+    "static/media/breakTime.8030d30f.mp3": "/pomodoro-clock/static/media/breakTime.8030d30f.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adf1146d.js",
+    "static/js/2.7f2e8bcb.chunk.js",
+    "static/css/main.f815520d.chunk.css",
+    "static/js/main.b6337907.chunk.js"
+  ]
+}
